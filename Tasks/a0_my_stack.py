@@ -3,7 +3,7 @@ My little Stack
 """
 from typing import Any
 
-
+#test
 def push(elem: Any) -> None:
     """
     Operation that add element to stack
